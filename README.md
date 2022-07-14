@@ -1,6 +1,21 @@
 # Hi, I'm Mujeer👋
 I'm a self-taught software developer specialising in backend development and AI/ML. In the past I've interned in a wide array of organizations, starting from research institutes like Indian Institute of Science (IISc) to multi-national companies like Festo and startups like Personifwy. I enjoy participating in hackathons and I've also won a hackathon conducted by Massachusetts Institute of Technology. 
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🔭 I’m currently working on **Microservices Android App**
+
+- 🌱 I’m currently learning **Federated Learning & Differential Privacy**
+
+- 💬 Ask me about **Data-Driven Techniques for Flight Path Planning**
+
+- 📫 How to reach me **mujeerahmedx@gmail.com**
+
+- ⚡ Fun fact: **I can fix anything**
+
+<br/>
+<br/>
+
 ## Connect with me:
 
 [<img align="left" alt="MujeerAhmed | LinkedIn" width="30px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
