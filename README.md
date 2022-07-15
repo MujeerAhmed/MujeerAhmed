@@ -3,15 +3,18 @@ I'm a self-taught software developer specialising in backend development and AI/
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+Glad to see you here!
+
 - 🔭 I’m currently working on **Microservices Android App**
 
 - 🌱 I’m currently learning **Federated Learning & Differential Privacy**
 
 - 💬 Ask me about **Data-Driven Techniques for Flight Path Planning**
 
-- 📫 How to reach me **mujeerahmedx@gmail.com**
+- 📫 How to reach me: **mujeerahmedx@gmail.com**
 
 - ⚡ Fun fact: **I can fix anything**
+
 
 <br/>
 <br/>
