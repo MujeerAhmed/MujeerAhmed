@@ -5,8 +5,6 @@ I'm a self-taught software developer specialising in backend development and dat
 
 Glad to see you here!
 
-- 🔭 I’m currently looking for a full-time job as a **Backend Developer**
-
 - 🌱 I’m currently learning **Microservices**
 
 - 💬 Ask me about **anything, I'm happy to help and contribute**
@@ -14,6 +12,8 @@ Glad to see you here!
 - 📫 How to reach me: **mujeerahmedx@gmail.com**
 
 - ❤️ I'm passionate about **startups**
+
+- 🔭 I’m currently looking for a full-time job as a **Backend Developer**
 
 ---
 
