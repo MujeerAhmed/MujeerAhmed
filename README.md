@@ -13,7 +13,7 @@ Glad to see you here!
 
 - ❤️ I'm passionate about **startups**
 
-- 🔭 I’m currently looking for a full-time job as a **Backend Developer**
+- 🔭 I’m currently looking for a job as a **Backend Developer**
 
 ---
 
