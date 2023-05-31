@@ -5,7 +5,7 @@ I'm a self-taught software developer specialising in backend development and dat
 
 Glad to see you here!
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **anything, I'm happy to help and contribute**
 
@@ -13,7 +13,7 @@ Glad to see you here!
 
 - ❤️ I'm passionate about **startups**
 
-<!-- - 🔭 I’m currently working as a **SDET @ ExactSpace** -->
+<!-- - 🔭 I’m currently working as a **SDET at ExactSpace** -->
 
 ---
 
