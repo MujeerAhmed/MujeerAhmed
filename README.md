@@ -13,7 +13,7 @@ Glad to see you here!
 
 - ❤️ I'm passionate about **startups**
 
-<!-- - 🔭 I’m currently looking for a job as a **Backend Developer** -->
+<!-- - 🔭 I’m currently working as a **SDET @ ExactSpace** -->
 
 ---
 
@@ -32,13 +32,13 @@ Glad to see you here!
 - 🐵 MongoDB
 - 📋 MySQL
 - 🗒️ PostgreSQL
-
+- 🏹 KairosDB
 ---
 
 ### Technologies I have worked with :
 
-- ⚗️ Django
-- 🙏 Springboot
+- ⚗️ Flask
+- 🙏 Django
 
 ---
 
@@ -47,6 +47,8 @@ Glad to see you here!
 - 🐋 Docker
 - 🤝 Git
 - 🔥 AWS
+- 🏃🏻‍♂️ FastAPI
+- 🥷🏼 Ansible
 
 ## Connect with me:
 
