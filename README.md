@@ -5,13 +5,13 @@ I'm a self-taught software developer specialising in **Backend Development**, **
 
 Glad to see you here!
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about **anything, I'm happy to help and contribute**
 
 - 📫 How to reach me: **mujeerahmedx@gmail.com**
 
-- ❤️ I'm passionate about **startups**
+- ❤️ I'm passionate about **startups and open-source**
 
 <!-- - 🔭 I’m currently working as a **SDET at ExactSpace** -->
 
