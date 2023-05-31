@@ -1,5 +1,5 @@
 # Hi, I'm Mujeer👋
-I'm a self-taught software developer specialising in backend development and data engineering. I've interned at a wide array of organizations, starting from research institutes like Indian Institute of Science (IISc) to multi-national companies like Festo and startups like ExactSpace. I enjoy participating in hackathons and I've also won a hackathon conducted by Massachusetts Institute of Technology. 
+I'm a self-taught software developer specialising in **Backend Development**, **Data Science** and **DevOps**. I've interned at a wide array of organizations, starting from research institutes like Indian Institute of Science (IISc) to multi-national companies like Festo and startups like ExactSpace. I enjoy participating in hackathons and I've also won a hackathon conducted by Massachusetts Institute of Technology. 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
